@@ -49,3 +49,6 @@ const port = process.env.PORT || 3000;
 app.listen(port, () => {
     console.log(`started on port ${port}`);
 });
+
+// git remote add origin https://github.com/Superstorm42/sampleReact_1.git
+// git push -u origin master
